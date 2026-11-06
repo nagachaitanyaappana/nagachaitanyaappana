@@ -62,7 +62,7 @@ A web application supporting ITI admission workflows and administrative reportin
 
 **Focus:** Java, Spring Boot, JSP, JavaScript, PostgreSQL
 
-### [The System](https://github.com/nagachaitanyaappana)
+### The System
 A Spring Boot project that I am rebuilding as a learning project, with an emphasis on backend structure and maintainable application design.
 
 **Focus:** Java, Spring Boot, PostgreSQL
